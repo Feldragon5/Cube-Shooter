@@ -12,3 +12,7 @@
 12. remove health from the shop and add medkits
 13. Add a boss/bosses and a win state
 14. Add sound effects and music
+15. Bug: cubes can hurt you when you're in the air (player collision is not the same as the camera collision. when jumping and the cubes are under you, they can still hit you)
+16. Bug: cant buy things from shop while reloading
+17. Bug: Player can double jump sometimes
+18. Bug: Player spawns in the air
