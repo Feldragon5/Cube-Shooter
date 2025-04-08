@@ -1,18 +1,9 @@
 1. Remove jumping on objects and add randomly generated maze like walls
 2. Add waves with different colors, speeds, and health enemies
-3. Re-add damage
-4. Add movement speed
-5. Make coins drop from enemies instead of randomly spawning and automatic collection from enemies
-6. Make coins gold and rotate/move up and down like a coin
-7. Lose upgrades on restart
-8. Add knockback to the enemies and players
-9. Make it so you can jump further and over enemies to dodge them
-10. Powerups (speed boost, shield, coin magnet, etc)
-11. Add health regeneration over time
-12. remove health from the shop and add medkits
-13. Add a boss/bosses and a win state
-14. Add sound effects and music
-15. Bug: cubes can hurt you when you're in the air (player collision is not the same as the camera collision. when jumping and the cubes are under you, they can still hit you)
-16. Bug: cant buy things from shop while reloading
-17. Bug: Player can double jump sometimes
-18. Bug: Player spawns in the air
+3. Powerups (speed boost, shield, coin magnet, etc)
+4. Add health regeneration over time
+5. remove health from the shop and add medkits
+6. Add a boss/bosses and a win state
+7. Add sound effects and music
+8. Bug: cant buy things from shop while reloading
+9. Bug: Player can double jump sometimes
