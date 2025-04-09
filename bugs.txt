@@ -1,9 +1,21 @@
 1. Remove jumping on objects and add randomly generated maze like walls
 2. Add waves with different colors, speeds, and health enemies
-3. Powerups (speed boost, shield, coin magnet, etc)
-4. Add health regeneration over time
+3. Add other things that spawn in the game that you can collect to make it more interesting
+4. Enemies should do more damage later on and the player should be able to purchase max health in the shop
 5. remove health from the shop and add medkits
 6. Add a boss/bosses and a win state
 7. Add sound effects and music
 8. Bug: cant buy things from shop while reloading
 9. Bug: Player can double jump sometimes
+10. Remove refill clip from shop and repalce with reload speed
+11. At max fire rate, you can buy a laser that pierces enemies with high damage
+12. Vary enemies in each wave and then hide the enemies counter
+13. Add increasing costs for the shop
+14. Add a perks section to the shop that includes a coin magnet(pulls coins in slowly), health regen (1%/sec or something), double jump, multishot(maybe) etc
+15. Buying a clip size shouldn't refill ammo
+16. Shop opens automatically between waves and can't be opened during a wave
+17. "Wave #" shown before each wave
+18. fire rate and speed units are shown twice, change u/sec to ft/sec
+
+Notes:
+Dont use damage, use fire rate only
